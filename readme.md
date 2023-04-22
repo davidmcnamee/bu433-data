@@ -5,6 +5,7 @@ Raw data collected for BU433 Term Project (Part 2). Files are gzipped Excel Spre
 
 ## Annual Bank Fundamentals
 Collected from: https://wrds-www.wharton.upenn.edu/pages/get-data/compustat-capital-iq-standard-poors/compustat/bank-daily/bank-fundamentals-annual/
+
 Using the following selectors:
 * Tickers: USB PNC WFC MTB BAC TFC JPM C TD BNS
 * Date Range: 2003-01 to 2023-04
@@ -12,6 +13,7 @@ Using the following selectors:
 
 ## Quarterly Bank Fundamentals
 Collected from: https://wrds-www.wharton.upenn.edu/pages/get-data/compustat-capital-iq-standard-poors/compustat/bank-daily/bank-fundamentals-quarterly/
+
 Using the following selectors:
 * Tickers: USB PNC WFC MTB BAC TFC JPM C TD BNS
 * Date Range: 2003-01 to 2023-04
@@ -20,6 +22,7 @@ Using the following selectors:
 
 ## Monthly Stock Data
 Collected from: https://wrds-www.wharton.upenn.edu/pages/get-data/compustat-capital-iq-standard-poors/compustat/north-america-daily/security-monthly/
+
 Using the following selectors:
 * Tickers: USB PNC WFC MTB BAC TFC JPM C TD BNS
 * Date Range: 2003-01 to 2023-04
